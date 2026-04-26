@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "EMS\\x64\\Release\\workerManager.obj",
+            "outputs": [
+                "EMS\\x64\\Release\\workerManager.h_77D76B3613603F0.ifc.dt.module.json",
+                "EMS\\x64\\Release\\workerManager.h_77D76B3613603F0.ifc.dt.d.json",
+                "EMS\\x64\\Release\\workerManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\document\\Project-1\\workerManager.h",
+                    "source-path": "d:\\document\\project-1\\workermanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

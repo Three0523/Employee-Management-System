@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "EMS\\x64\\Release\\microsoft\\STL\\std.obj",
+            "outputs": [
+                "EMS\\x64\\Release\\microsoft\\STL\\std.ixx.ifc.dt.module.json",
+                "EMS\\x64\\Release\\microsoft\\STL\\std.ixx.ifc.dt.d.json",
+                "EMS\\x64\\Release\\microsoft\\STL\\std.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std",
+                    "source-path": "d:\\tools\\vs\\project\\vc\\tools\\msvc\\14.50.35717\\modules\\std.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

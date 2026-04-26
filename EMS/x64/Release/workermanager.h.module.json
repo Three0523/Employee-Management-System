@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "EMS\\x64\\Release\\workerManager.h.obj",
+            "outputs": [
+                "D:\\document\\Project-1\\EMS\\x64\\Release\\vc145.pdb",
+                "EMS\\x64\\Release\\",
+                "D:\\document\\Project-1\\EMS\\x64\\Release\\workerManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "workerManager.h",
+                    "source-path": "d:\\document\\project-1\\workermanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
